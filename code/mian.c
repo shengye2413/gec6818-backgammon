@@ -8,8 +8,17 @@
  
 int main()
 {
-    //定义胜利次数
-    char victory1=48,victory2=48;
+    //读取胜利次数
+    FILE* fd1=fopen("./1.txt","r");
+    if(fd1==NULL)
+    {
+        perror("error\n");
+    }
+    fseek(fd1,6,SEEK_SET);
+    char victory1=getc(fd1);
+    fseek(fd1,7,SEEK_CUR);
+    char victory2=getc(fd1);
+    fclose(fd1);
     //初始化
     lcd_init();
     nothing:
