@@ -1,4 +1,4 @@
-# gec6818-backgammon
+![IMG_20230823_111709](https://github.com/shengye2413/gec6818-backgammon/assets/73319935/f87cd8ca-7f97-4be4-ad53-755bdf0053c2)# gec6818-backgammon
 基于gec6818的五子棋游戏
 #### 概述
 
@@ -163,3 +163,9 @@
 这两个函数用来判断黑白棋是否达成五子连线,并返回连线数。
 
 基本思路是遍历数组,找到己方棋子后,判断四个方向是否有相连的五子。
+![IMG_20230823_111709](https://github.com/shengye2413/gec6818-backgammon/assets/73319935/d62f7f4b-bea8-4b23-8f1c-8cf46bccd35e)
+![IMG_20230823_111730](https://github.com/shengye2413/gec6818-backgammon/assets/73319935/db34d756-e7aa-4ce4-a0f9-c20c600b2bf9)
+![IMG_20230823_111543](https://github.com/shengye2413/gec6818-backgammon/assets/73319935/bfa46716-7152-478d-999d-aa03f32ccfdd)
+
+![IMG_20230823_111659](https://github.com/shengye2413/gec6818-backgammon/assets/73319935/e4e32864-f769-451a-a009-af02ed65f5a4)
+
