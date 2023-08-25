@@ -1,4 +1,4 @@
-![IMG_20230823_111709](https://github.com/shengye2413/gec6818-backgammon/assets/73319935/f87cd8ca-7f97-4be4-ad53-755bdf0053c2)# gec6818-backgammon
+# gec6818-backgammon
 基于gec6818的五子棋游戏
 #### 概述
 
